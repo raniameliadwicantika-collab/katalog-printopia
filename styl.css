@@ -1,0 +1,44 @@
+.bg-gradient-pink {
+    background: linear-gradient(135deg, #ff6ec4, #7873f5);
+}
+
+.text-pink {
+    color: #ff6ec4;
+}
+
+.btn-pink {
+    background: #ff6ec4;
+    color: #fff;
+    border: none;
+}
+
+.btn-pink:hover {
+    background: #e055ad;
+}
+
+.product-img {
+    height: 160px;
+    object-fit: cover;
+}
+
+.qris-box {
+    max-width: 320px;
+    margin: 0 auto;
+}
+
+.bg-gradient-pink {
+  background: linear-gradient(45deg, #e83e8c, #d63384);
+}
+
+.btn-pink {
+  background-color: #e83e8c;
+  color: #fff;
+  border: none;
+}
+.btn-pink:hover {
+  background-color: #d63384;
+  color: #fff;
+}
+.text-pink { color: #e83e8c; }
+
+.product-img { object-fit: cover; }
